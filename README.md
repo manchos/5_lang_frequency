@@ -7,3 +7,5 @@ https://devman.org/challenges/5/
 Реализован на использовании Counter objects
 
 https://docs.python.org/3/library/collections.html?highlight=counter#counter-objects
+
+Для тестирования можно использовать http://vojnaimir.ru/files/book1.txt преобразованный в utf-8 файл
